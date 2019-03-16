@@ -1,0 +1,12 @@
+.btn-danger{
+    background-color:blue;
+
+}
+.btn-warning{
+    background-color: aquamarine;
+}
+
+.col{
+    background-color: grey;
+    border: 2px solid black;
+}
